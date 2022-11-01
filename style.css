@@ -1,0 +1,22 @@
+*{
+    font-family:sans-serif;
+    margin: 0;
+}
+
+.container{
+    /* margin: 0rem 1rem; */
+    background-color: #0d9488  ;
+    padding: 1rem;
+}
+.unordered-list{
+    list-style: none;
+    text-align: right;
+}
+.list{
+    display: inline;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
